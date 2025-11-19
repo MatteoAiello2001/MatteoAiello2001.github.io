@@ -10,5 +10,4 @@ Ciao! Questo è il mio wiki personale creato con **GitHub Pages** e **Markdown**
 ## Pagine
 
 - [Chi sono](chi-sono.md)
-- [Progetti](progetti.md)
-- [Contatti](contatti.md)
+- [salvataggio file](salvataggio-file.md)
