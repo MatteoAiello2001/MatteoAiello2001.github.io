@@ -1,5 +1,6 @@
 I file si possono vedere via codice in due formati:
 
+<pre> ```
 Hash (non è reversibile)
   SHA-256 (a9fd8b3f5176e996f0560dc4e2f59e38e69de62927ca6844f21d36055100d43d)
 
@@ -14,6 +15,6 @@ Codifica (refersibile)
   e se lo codifico in base64, a detta di chatgpt, sarà una roba tipo questa
     QUFBQUE=
   (non so perchè ma è così)
-
+``` </pre>
 
 
