@@ -1,5 +1,7 @@
-<pre> 
-```sql
+/*<pre> 
+```
+*/
+sql
 
 Qua verranno messe tutte le info su SQL
 
@@ -40,14 +42,15 @@ select trim(value) from string_split(@lista, ',')
 
 -- lo standard è questo x i db
 
-
+/*
 nome db         colonne o db
 SQL Server      PascalCase o snake_case
 Oracle          PascalCase o snake_case
 MySQL           snake_case
+*/
 
 
-
-
+/*
 ```
 </pre>
+*/
