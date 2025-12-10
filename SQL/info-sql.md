@@ -1,9 +1,10 @@
+```sql
 /*<pre> 
-```
-*/
-sql
 
-Qua verranno messe tutte le info su SQL
+*/
+-- sql
+
+-- Qua verranno messe tutte le info su SQL
 
 -- x creare una nuova tabella
 
