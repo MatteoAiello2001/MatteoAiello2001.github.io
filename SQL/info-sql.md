@@ -51,7 +51,31 @@ MySQL           snake_case
 */
 
 
-/*
+/* Esempio di ciclo */
+
+
+  DECLARE companyCursor CURSOR FOR
+  SELECT id
+  FROM [Anagrafica].[dbo].vwCompanies
+  WHERE groupid = @groupId
+
+  OPEN companyCursor
+  FETCH NEXT FROM companyCursor INTO @CompanyId
+
+  WHILE @@FETCH_STATUS = 0
+  BEGIN
+    -- codice da eseguire
+
+
+    FETCH NEXT FROM companyCursor INTO @CompanyId
+  END
+
+  CLOSE companyCursor
+  DEALLOCATE companyCursor
+
+
+
+
+
 ```
 </pre>
-*/
