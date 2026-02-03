@@ -1,7 +1,4 @@
 ```sql
-/*<pre> 
-
-*/
 -- sql
 
 -- Qua verranno messe tutte le info su SQL
@@ -78,4 +75,3 @@ MySQL           snake_case
 
 
 ```
-</pre>
