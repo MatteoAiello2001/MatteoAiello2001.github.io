@@ -15,3 +15,4 @@ Ciao! Questo è il mio wiki personale creato con **GitHub Pages** e **Markdown**
 - [SQL Query](SQL\query-sql.html)
 - [SQL Info](SQL\info-sql.html)
 - [test](SQL\test.html)
+- [info su googledrive](googledrive.md)
