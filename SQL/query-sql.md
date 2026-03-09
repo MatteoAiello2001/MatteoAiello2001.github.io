@@ -72,6 +72,15 @@ MySQL           snake_case
 
 
 
+-- x verificare la versione si fa così
+SELECT @@VERSION
+
+
+
+
+
+
+
 
 
 ```

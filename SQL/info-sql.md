@@ -44,6 +44,30 @@ Connessione (es. sql.indicom.local. utenza es. matteo.aiello)
 ```
 
 
+Versionamenti
 
 
+```
+
+Queste sono le versioni principali di SQL Server
+
+2025  v17.0	
+2022  v16.0	
+2019  v15.0	
+2017  v14.0	-- io ho questa in indicom
+
+
+e invece queste sono le versioni x ssms (riceve aggiornamenti praticamente ogni anno)
+
+2026 (Attuale)  v21.x		
+2024-2025	      v20.x	
+2022-2023       v19.x		-- io ho questa in indicom
+2019-2022       v18.x		
+
+
+
+
+
+
+```
 
