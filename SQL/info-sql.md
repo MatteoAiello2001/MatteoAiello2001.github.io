@@ -64,6 +64,8 @@ e invece queste sono le versioni x ssms (riceve aggiornamenti praticamente ogni 
 2022-2023       v19.x		-- io ho questa in indicom
 2019-2022       v18.x		
 
+test
+
 
 
 
