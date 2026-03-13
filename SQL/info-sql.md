@@ -54,14 +54,14 @@ Queste sono le versioni principali di SQL Server
 2025  v17.0	
 2022  v16.0	
 2019  v15.0	
-2017  v14.0	-- io ho questa in indicom
+2017  v14.0	-- io ho questa in LV2
 
 
 e invece queste sono le versioni x ssms (riceve aggiornamenti praticamente ogni anno)
 
 2026 (Attuale)  v21.x		
 2024-2025	      v20.x	
-2022-2023       v19.x		-- io ho questa in indicom
+2022-2023       v19.x		-- io ho questa in LV2
 2019-2022       v18.x		
 
 test
@@ -72,4 +72,26 @@ test
 
 
 ```
+
+
+Regole chiave per un corretto controllo
+
+
+```
+
+if (not exists (select * from tabella))
+  eseguo l'insert
+  select 'insert eseguito'
+else
+  select 'esiste già'
+
+select * from tabella
+
+
+
+
+
+```
+
+
 
