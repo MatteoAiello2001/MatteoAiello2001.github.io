@@ -9,11 +9,12 @@
 | DB | Oracle | MySQL | MySQL Workbench |
 | DB | Oracle | Oracle | Oracle SQL Developer |
 | DB | Microsoft | SQL Server | SQL Server Management Studio (SSMS) |
-| BE | ? (TODO) | Java | Eclipse |
-| BE | ? (TODO) | Java | NetBeans |
-| BE | ? (TODO) | Java | IntelliJ IDEA |
-| BE | ? (TODO) | C# | Visual Studio |
-| FE | ? (TODO) | — | Visual Studio Code |
+| BE | Oracle | Java | / |
+| BE | Eclipse Foundation | / | Eclipse |
+| BE | Apache Foundation | / | NetBeans |
+| BE | JetBrains | / | IntelliJ IDEA |
+| BE | Microsoft | C# | Visual Studio |
+| FE | Microsoft | / | Visual Studio Code |
 
 
 
