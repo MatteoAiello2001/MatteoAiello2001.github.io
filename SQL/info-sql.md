@@ -4,16 +4,16 @@
 
 ### Info generali
 
-| Ambito | Linguaggio / DB | IDE / Strumento |
-| :--- | :--- | :--- |
-| DB | MySQL | MySQL Workbench |
-| DB | Oracle | Oracle SQL Developer |
-| DB | SQL Server | SQL Server Management Studio (SSMS) |
-| BE | Java | Eclipse |
-| BE | Java | NetBeans |
-| BE | Java | IntelliJ IDEA |
-| BE | C# | Visual Studio |
-| FE | — | Visual Studio Code |
+| Ambito | Proprietario | Linguaggio / DB | IDE / Strumento |
+| :--- | :--- | :--- | :--- |
+| DB | Oracle | MySQL | MySQL Workbench |
+| DB | Oracle | Oracle | Oracle SQL Developer |
+| DB | Microsoft | SQL Server | SQL Server Management Studio (SSMS) |
+| BE | ? (TODO) | Java | Eclipse |
+| BE | ? (TODO) | Java | NetBeans |
+| BE | ? (TODO) | Java | IntelliJ IDEA |
+| BE | ? (TODO) | C# | Visual Studio |
+| FE | ? (TODO) | — | Visual Studio Code |
 
 
 
