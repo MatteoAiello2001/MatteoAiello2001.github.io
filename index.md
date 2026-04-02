@@ -1,9 +1,6 @@
----
-layout: default
-title: Home
----
 
-# Benvenuto nel mio Wiki Personale
+
+# Benvenuto nel mio Wiki Personale 1
 
 Ciao! Questo è il mio wiki personale creato con **GitHub Pages** e **Markdown**.
 
