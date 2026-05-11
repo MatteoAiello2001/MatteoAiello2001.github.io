@@ -14,3 +14,4 @@ Ciao! Questo è il mio wiki personale creato con **GitHub Pages** e **Markdown**
 - [test](SQL\test.html)
 - [info su googledrive](googledrive.md)
 - [path percorsi](path-percorsi.md)
+- [Coppie](coppie.md)
