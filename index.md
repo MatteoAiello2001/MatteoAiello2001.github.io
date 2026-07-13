@@ -15,3 +15,4 @@ Ciao! Questo è il mio wiki personale creato con **GitHub Pages** e **Markdown**
 - [info su googledrive](googledrive.md)
 - [path percorsi](path-percorsi.md)
 - [Coppie](coppie.md)
+- [AI](AI.md)
